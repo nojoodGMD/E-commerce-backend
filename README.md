@@ -30,4 +30,8 @@ https://github.com/nojoodGMD/E-commerce-backend/assets/57106785/fa603db1-6351-43
 </p>
 
 ## Full stack website + deploy website
-- Status : under development ⏳
+- Status : Fininshed ✅, URL for server: https://sda-online-mern-backend-project-puce.vercel.app/
+
+## Public endpoints (no need for logging in or verification):
+- https://sda-online-mern-backend-project-puce.vercel.app/api/products
+- https://sda-online-mern-backend-project-puce.vercel.app/api/categories
